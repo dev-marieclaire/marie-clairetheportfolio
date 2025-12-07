@@ -1,0 +1,27 @@
+{
+    "opuses":
+    [
+        {
+            "name": "Set of Three Miniatures for the Fortepiano (Op. 1)",
+            "image": "img/Op. 1_lower.png",
+            "stream_link": "https://maryjamesmusic.bandcamp.com/album/conjunto-de-tres-miniaturas-para-el-fortepiano-op-1",
+            "sheet_link": "./PDF/Op. 1.pdf"
+        },
+        {
+            "name": "Two submissions (Op. 2)",
+            "image": "img/Op. 2_lower.png",
+            "stream_link": "https://maryjamesmusic.bandcamp.com/album/dos-propuestas-musicales-op-2",
+            "sheet_link": "./PDF/Op. 2.pdf"
+        },
+        {
+            "name": "Set of Three Miniatures for the Fortepiano (Op. 1)",
+            "image": "img/Op. 1_lower.png",
+            "stream_link": "https://maryjamesmusic.bandcamp.com/album/conjunto-de-tres-miniaturas-para-el-fortepiano-op-1",
+            "sheet_link": "./PDF/Op. 1.pdf"
+        },
+        {
+            "name": "Suite (Op. 4)",
+            "image": "img/Op. 4_lower.png"
+        }
+    ]
+}
